@@ -40,18 +40,20 @@ The Kanban-Board is a full-stack web application designed to help agile teams ma
 ## Usage
 
 1. **Login**:
-    - Navigate to the login page and enter your username and password.
+    - Navigate to the login page and enter one of these provided user credentials:  
+        * username: JollyGuru password: password
+        * username: SunnyScribe password: password
+        * username: RadiantComet password: password
     - Upon successful login, you will be redirected to the main Kanban board page.
 2. **Manage Tasks**:
     - Add, edit, and delete tasks on the Kanban board.
-    - Drag and drop tasks between columns to update their status.
 3. **Logout**:
     - Click the logout button to securely log out and remove the JWT from local storage.
 
 **Screenshots**:
-![Can-Find Home Page]()
+![Kanban-Board login page](./assets/Login.png)
 
-![Can-Find Saved Candidates Page]()
+![Kanban-Board](./assets/Kanban-Board.png)
 
 **Deployed application**:
 The application is deployed on Render and can be accessed at the following URL:  
@@ -76,3 +78,10 @@ For any inquiries or feedback, please contact me at:
 - **Email**: ashleighb.jjd@gmail.com
 - **LinkedIn**: [Ashleigh Brown](https://www.linkedin.com/in/ashleigh-brown-42981834a/)
 - **GitHub**: [AshB88](https://github.com/AshB88)
+
+## Acknowledgements
+
+This project was made possible with the help of various resources and contributions. Some of the code was sourced from the instructor-provided files, and additional assistance was provided by GitHub Copilot. Special thanks to the following:
+
+- **Instructor**: For providing the initial project files and guidance.
+- **GitHub Copilot**: For offering code suggestions and improvements throughout the development process.
